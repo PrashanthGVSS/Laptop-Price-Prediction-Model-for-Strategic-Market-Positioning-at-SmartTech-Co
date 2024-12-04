@@ -1,4 +1,4 @@
-1. Laptop Price Prediction for SmartTech Co.
+Laptop Price Prediction for SmartTech Co.
 Objective
 Develop a robust machine learning model to predict laptop prices accurately, enabling SmartTech Co. to optimize pricing strategies and improve market competitiveness.
 
